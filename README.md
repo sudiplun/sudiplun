@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudip Lun</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">Developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudiplun&label=Profile%20views&color=0e75b6&style=flat" alt="sudiplun" /> </p>
 
