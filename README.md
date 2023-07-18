@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 📝 I regularly write articles on [https://luniox.netlify.app/](https://luniox.netlify.app/)
+- 📝 I regularly write articles on [https://luniox.netlify.app/](https://luniox.blogspot.com/)
 
 - 💬 Ask me about **Linux,Web development**
 
